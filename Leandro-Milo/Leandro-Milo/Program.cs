@@ -10,6 +10,7 @@ namespace Leandro_Milo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
         }
 
     }
