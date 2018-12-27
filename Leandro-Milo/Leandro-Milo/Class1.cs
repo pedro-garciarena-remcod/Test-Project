@@ -6,11 +6,13 @@ using System.Threading.Tasks;
 
 namespace Leandro_Milo
 {
-    class Program
+    class MySum
     {
-        static void Main(string[] args)
+        public static int newSum(int a, int b)
         {
-        }
+            int c = a + b;
 
+            return c;
+        }
     }
 }
